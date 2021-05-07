@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I've been known for as Psycho.Neon/Psychedelic⭐. I am a modder, programmer since 2009 with the help of good people and my mentors. 
+
+Mainly my line of work is reversing games and softwares. Making macros/automations. 
+
+### Contact
+N/A
+
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=psycho-neon&show_icons=true&theme=radical)
 <!--
 **psycho-neon/psycho-neon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
